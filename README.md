@@ -28,4 +28,5 @@ My goal was
 
 Project ARIA was born!
 
-Read in the following chapters, what went well (and what not), what steps where necessary to meet my expectations and how the 
+Read in the following chapters, what went well (and what not), what steps where necessary to meet my expectations and how my journey towards 
+ARIA as my personal assistent went.
