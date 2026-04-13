@@ -21,7 +21,7 @@ Not bad compared to the Dell Wyse :-)
 My goal was
 - 64GB RAM
 - 2TB NVME Disk
-- CPU Upgrade to Core i7-7700T
+- CPU Upgrade to Core i7-7700T (more threads compared to the original i5, but only 35W 
 - NVIDIA GPU
 - LINUX (preferably CachyOS)
 - AI Software/Tools to build a personal assistant
