@@ -1,20 +1,17 @@
-#Software Stack for ARIA
+# Software Stack for ARIA
 
-##OLAMA
+## OLAMA
 OLAMA manages the local model and provides the necessary API to other system (e.g. OpenClaw)
 
-##The LLM Model
+## The LLM Model
 Will be managed by OLAMA
 Need to be capable to run on RTX3050 with 6GB of VRAM and Intel i7-7700-T/64GB RAM. (see: Hardware)
 
-###Options
+### Options
 
-####QWEN
+#### QWEN
 
-####GEMMA-4
-
-
-
+#### GEMMA-4
 
 Run OpenClaw in a local Container.
 
@@ -22,11 +19,9 @@ Run Olama/QWEN as local LLM.
 
 
 
-\##Local LLM
 
 
-
-\##OpenClaw
+## OpenClaw
 
 
 
