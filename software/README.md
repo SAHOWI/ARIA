@@ -7,6 +7,18 @@ OLAMA manages the local model and provides the necessary API to other system (e.
 Will be managed by OLAMA
 Need to be capable to run on RTX3050 with 6GB of VRAM and Intel i7-7700-T/64GB RAM. (see: Hardware)
 
+## Installation of Ollama and Gemma
+
+```bash
+# install ollama
+curl -fsSL https://ollama.com/install.sh | sh
+
+# pull gemma4:26b
+ollama pull gemma4:26b
+
+
+```
+
 ### Options
 
 #### QWEN
