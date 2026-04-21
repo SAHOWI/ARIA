@@ -78,7 +78,27 @@ Continue with the Quickstart installation method. Final configuration will be do
 ![Quickstart](/Documentation/images/OpenClaw-Quickstart.png "OpenClaw Quickstart Installation")
 
 
+When you get the message
+```
+◇  Ollama ─────────────────────────────────────────────────╮
+│                                                          │
+│  Ollama could not be reached at http://127.0.0.1:11434.  │
+│  Download it at https://ollama.com/download              │
+│                                                          │
+│  Start Ollama and re-run setup.                          │
+│                                                          │
+├──────────────────────────────────────────────────────────╯
+```
 
+
+
+
+❯ sudo systemctl daemon-reload
+
+~/openclaw main aria@wonderland
+❯ sudo systemctl restart ollama
+
+~/openclaw main aria@wonderland
 
 
 
