@@ -19,6 +19,14 @@ In addition I made sure that the CUDA support is installed.
 ```bash
 sudo pacman -S cuda cudnn
 ``` 
+## Additional Tools & Packages
+### NPM
+The Node.js Package Manager is required of OpenClaw will be installed locally.
+Install it with
+```bash
+sudo pacman -Syu nodejs npm
+```
+Make sure to logoff/on again (or to restart the shell) to have the npm added to your path.
 
 ## OLAMA
 OLAMA manages the local model and provides the necessary API to other system (e.g. OpenClaw)
