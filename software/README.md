@@ -70,7 +70,8 @@ Install OpenClaw into a Docker Image
 ```bash
 sudo ./docker-setup.sh
 ```
-
+You will be greeted with
+![ARIA Logo](Documentation/images/OpenClaw-Installer-Welcome-Screen.png "OpenClaw Installation Welcome Screen")
 
 
 
