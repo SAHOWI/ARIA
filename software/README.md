@@ -73,6 +73,12 @@ sudo ./docker-setup.sh
 You will be greeted with
 ![Open Claw](/Documentation/images/OpenClaw-Installer-Welcome-Screen.png "OpenClaw Installation Welcome Screen")
 
+Continue with the Quickstart installation method. Final configuration will be done later:
+
+![Quickstart](/Documentation/images/OpenClaw-Quickstart.png "OpenClaw Quickstart Installation")
+
+
+
 
 
 
